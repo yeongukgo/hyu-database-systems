@@ -10,6 +10,3 @@
 
 # Wiki
 - [wiki](../../wiki)
-
-# Project 3 Flowchart
-![Flowchart_of_Funtions](https://user-images.githubusercontent.com/68417603/136568643-e2628691-ad8b-4222-92e7-2f87f00ee7d1.png)
